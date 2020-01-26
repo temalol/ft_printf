@@ -5,6 +5,6 @@ Moul 125/125
 Bonuses:
 * array (%y)
 * binary (%b)
-* unprintable symbols
+* unprintable symbols(%r)
 *  .* as argument for wide or precsision
-* color output
+* color output (ANSI_COLOR)
