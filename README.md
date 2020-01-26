@@ -6,5 +6,5 @@ Bonuses:
 * array (%y)
 * binary (%b)
 * unprintable symbols
-*  "*" as wide or precsision
+*  /* as wide or precsision
 * color output
